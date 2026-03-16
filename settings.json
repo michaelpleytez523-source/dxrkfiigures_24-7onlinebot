@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sondersmp.aternos.me:25582",
+    "ip": "sondersmp.aternos.me",
     "port": 25582,
     "version": "1.21.11",
     "try-creative": false
